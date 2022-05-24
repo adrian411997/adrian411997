@@ -10,6 +10,11 @@
 <img src="https://sailsjs.com/images/logos/sails-logo_dkBg_ltBlue.png" width="40" height="40">
 <img src="./img/vue.png" width="40" height="40"><img src="./img/MSQL.png" width="40" height="40">
 <img src="./img/python.png" width="40" height="40">
+<p>En todo este tiempo de aprendizaje he realizado diversos proyectos cuyo repositorios puedes acceder en este GitHub de los cuales puedo destacar</p>
+<ul>
+    <li><br>TusGastos.com: </br> Una app para tener un seguimiento de tus gastos y calcula el total mensual del mismo. Tecnologias: Vue.js, Firebase, Bootstrap</li>
+    <li><br>FotosParati.com: </br>Una app Backend hecho con Sails.js para la compra de fotos, se puede iniciar sesion tanto como Usuario o Admin y realizar distintas tareas asi como tambien un dashboard para ver el total de clientes y productos</li>
+</ul>
 <!---
 adrian411997/adrian411997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
