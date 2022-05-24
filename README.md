@@ -16,8 +16,13 @@
 <ul>
     <li><b>TusGastos.com: </b> Una app para tener un seguimiento de tus gastos y calcula el total mensual del mismo. Tecnologias: Vue.js, Firebase, Bootstrap</li>
     <li><b>FotosParati.com: </b>Una app Backend hecho con Sails.js para la compra de fotos, se puede iniciar sesion tanto como Usuario o Admin y realizar distintas tareas asi como tambien un dashboard para ver el total de clientes y productos</li>
-    <li><b>ShopBag.com: </b>La app que realicé en conjunto con otros desarrolladores y compañeros para el bootcamp Soy Henry. Un eccomerce deployado que trabaja con un apis hechas por nosotros tambien. Cuenta con funcionalidades tipicas de eccomerce tales como comprar o vender productos, agregando funciones de Admin y un dashboard con metricas para tener informado sobre los movimientos financieros de la pagina. Link del sitio <a href="https://frontend-g-10-mpnd1y8jd-leojr2021.vercel.app/"> Aqui</a><li>
+    <li><b>ShopBag.com: </b>La app que realicé en conjunto con otros desarrolladores y compañeros para el bootcamp Soy Henry. Un eccomerce deployado que trabaja con un apis hechas por nosotros tambien. Cuenta con funcionalidades tipicas de eccomerce tales como comprar o vender productos, agregando funciones de Admin y un dashboard con metricas para tener informado sobre los movimientos financieros de la pagina. Link del sitio <a href="https://frontend-g-10-mpnd1y8jd-leojr2021.vercel.app/">aqui</a></li>
 </ul>
+    <h3>Mis redes sociales</h3>
+    <div align="center">
+        <a href="www.linkedin.com/in/adrian-martinez1997" target="_blank" rel="noreferrer"> <img src="./img/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
+        <a href="https://www.facebook.com/profile.php?id=100001889006753" target="_blank" rel="noreferrer"> <img src="./img/facebook.png" alt="linkedin" width="40" height="40"/> </a>
+    </div>
 <!---
 adrian411997/adrian411997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
