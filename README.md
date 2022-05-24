@@ -16,6 +16,7 @@
 <ul>
     <li><b>TusGastos.com: </b> Una app para tener un seguimiento de tus gastos y calcula el total mensual del mismo. Tecnologias: Vue.js, Firebase, Bootstrap</li>
     <li><b>FotosParati.com: </b>Una app Backend hecho con Sails.js para la compra de fotos, se puede iniciar sesion tanto como Usuario o Admin y realizar distintas tareas asi como tambien un dashboard para ver el total de clientes y productos</li>
+    <li><b>ShopBag.com: </b>La app que realicé en conjunto con otros desarrolladores y compañeros para el bootcamp Soy Henry. Un eccomerce deployado que trabaja con un apis hechas por nosotros tambien. Cuenta con funcionalidades tipicas de eccomerce tales como comprar o vender productos, agregando funciones de Admin y un dashboard con metricas para tener informado sobre los movimientos financieros de la pagina. Link del sitio <a href="https://frontend-g-10-mpnd1y8jd-leojr2021.vercel.app/"> Aqui</a><li>
 </ul>
 <!---
 adrian411997/adrian411997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
